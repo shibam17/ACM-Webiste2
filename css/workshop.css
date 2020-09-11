@@ -1,0 +1,103 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}#nav:hover{
+    color: #0092ce ;
+}
+#nav{
+    font-size : 21px;
+}
+#main_pg{
+    font-family: 'Oxygen', sans-serif;
+    
+}
+#main_p{
+    font-family: 'Oxygen', sans-serif;
+    font-size : 17px;
+}
+#img{
+    width: 10px;
+    height: 80px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+hr{
+    width: 14%;  
+    height: 2px;  
+    background-color:#0092ce;  
+    margin-bottom: 7px;  
+    margin-right: auto;  
+    margin-left: auto;  
+    margin-top: 9px;  
+    border-width: 4px; 
+    border-color:#0092ce;  
+}  
+#banner_image{
+    background: url('../workshopimg/workshop.jpg');
+    text-align: center;
+    color: #f8f8f8;
+    height: 650px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+.content{
+    min-height: 60vh;
+}
+#banner_content{
+    position: relative;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px;
+    height: auto;
+}
+#past{
+    background-color: black;
+    border-bottom: 3px solid white;
+}
+#phead{
+    color: #005DAA ;
+}
+#p{
+    width: 10%;  
+    height: 1px;  
+    background-color:white;  
+    margin-bottom: 7px;  
+    margin-right: auto;  
+    margin-left: auto;  
+    margin-top: 9px;  
+    border-width: 4px; 
+    border-color: white;
+}
+.thumbnail {
+    background-color: #000;
+    border-radius: 10%;
+}
+
+.img-thumbnail {
+    background-color: #000;
+    /*border: none;*/
+    border-radius: 10%;
+}
+
+h3{
+    font-size: 22px;
+    color: #fff;
+}
+
+h5{
+    font-size: 18px;
+    color: #fff;
+}
+p{
+    color: #fff;
+}
+.caption{
+    background-color: #000;
+    opacity: .8;
+    border-radius: 60%;
+
+}
